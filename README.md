@@ -90,5 +90,5 @@ retail-sales-forecasting-ai/
 ```
 
 ## Author
-Yash — MSc Food Science / Data Analytics Internship Project
+Yash — / Data Analytics Internship Project
 AICTE | IBM SkillsBuild Data Analytics with AI Internship 2026 | BharatCares
